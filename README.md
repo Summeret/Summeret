@@ -1,16 +1,15 @@
-## Hi there 👋
+# 안녕하세요 ! 프롵트엔드 개발자를 꿈꾸는 김지윤입니다!
+## 현재 공부중인 프로그램
+* photoshop
+* illustrator
+* HTML5
+* CSS3
+* Javacsript
+* Jquery
+* React
+* git
 
-<!--
-**Summeret/Summeret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 
+* 개인저장소를 만들었다 지웠다 반복해서 프로그램에 적응해보기
+* 수업 끛나고 복습하기
+* photoshop, illustrator
