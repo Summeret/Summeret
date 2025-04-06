@@ -3,7 +3,7 @@
 ### 자랑할 수 있는 디자이너 & 웹퍼블리셔 프론트엔드 개발자가 되는 그 날까지!
 
 ## 현재 공부중인 프로그램
-* photoshop / illustrator
+* photoshop  /  illustrator
 * HTML5
 * CSS3
 * Javacsript
